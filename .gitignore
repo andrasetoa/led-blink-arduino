@@ -1,0 +1,38 @@
+# Arduino IDE generated files
+*.elf
+*.bin
+*.hex
+*.eep
+*.lss
+*.sym
+*.tmp
+
+# Build directories
+build/
+*.build/
+*.d/
+*.o
+
+# IDE files
+.project
+.cproject
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.prefs
+*.perspective
+
+# Library files
+*.a
+*.la
+*.so
+*.dll
+*.dylib
+
+# Backup files
+*~
+*.bak
